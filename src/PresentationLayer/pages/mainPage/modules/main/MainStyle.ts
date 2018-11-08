@@ -1,15 +1,15 @@
-import {createStyles} from '@material-ui/core'
+import {createStyles} from '@material-ui/core';
 
-export const styles = (theme:any) => createStyles({
-    appBar:{
-        display:'flex',
-        flex:1,
+export const styles = (theme: any) => createStyles({
+    appBar: {
+        display: 'flex',
+        flex: 1
     },
-    link:{
-        textDecoration:'none'
+    link: {
+        textDecoration: 'none'
     },
-    logo:{
-        display:'flex',
-        flex:1,
+    logo: {
+        display: 'flex',
+        flex: 1
     }
-})
+});

@@ -1,12 +1,12 @@
-import * as React from 'react'
+import * as React from 'react';
 
-class Contact extends React.Component{
-    public render(){
+class Contact extends React.Component {
+    public render() {
         return(
             <h1>
                 Contact
             </h1>
-        )
+        );
     }
 }
 

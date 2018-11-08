@@ -1,9 +1,11 @@
-import * as React from 'react'
+import * as React from 'react';
 
-class About extends React.Component{
-    public render(){
+class About extends React.Component {
+    public render() {
         return(
-            <React.Fragment/>
+            <React.Fragment>
+                Hello World
+            </React.Fragment>
         );
     }
 }
